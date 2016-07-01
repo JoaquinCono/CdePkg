@@ -7,7 +7,7 @@ main
 argc
 argv
 printf
-hello hell
+hello World\n
 fopen
 fseek(SEEK_END)
 malloc(fsize=ftell)
