@@ -1,7 +1,6 @@
 # CdePkg
-CDE Development Environment Package for EDK2, POSIX / ANSI C support for UEFI
-
-Yet another recursive acronym: Cde -> CDE Development Environment
+Cde Development Environment Package for EDK2, POSIX / ANSI C support for UEFI
+This component is maintained here: https://github.com/MinnowWare/CdePkg
 
 main
 argc
