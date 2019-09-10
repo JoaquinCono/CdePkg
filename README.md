@@ -1,7 +1,7 @@
 # CdePkg
 Cde Development Environment Package for EDK2, POSIX / ANSI C support for UEFI
 
-This component is maintained here: https://github.com/MinnowWare/CdePkg
+This component is maintained here: https://github.com/MinnowWare/CdePkg#cdepkg
 
 main
 argc
